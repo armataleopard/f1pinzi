@@ -1,0 +1,60 @@
+
+PROJECT: F1PONZI ($ZOOOM)
+
+CONCEPT:
+F1PONZI ($ZOOOM) is a meme coin project inspired by the high-octane world of Formula 1 racing, mixed with Ponzi-style satirical humor and a touch of crypto chaos. The website should evoke a futuristic, neon-lit atmosphere, similar to a blend of Tron, cyberpunk racing, and F1 aesthetics. The style should be *very digital*, sleek, and saturated with motion and light effects.
+
+DESIGN STYLE:
+- **Theme**: Futuristic neon / Synthwave / Cyber-racing
+- **Colors**: Neon pink, blue, purple, black background
+- **Typography**: Digital/glow font with strong presence
+- **Layout**: Wide-screen, parallax scroll, smooth animated transitions
+- **Animation**: Spark trails, LED flickers, data stream backgrounds, car drift effects, NFT flips, UI blinkers
+
+PAGE STRUCTURE:
+1. **Banner Section**
+   - Background: F1 race scene with racing lights and coin symbols flying by
+   - Logo (logo.jpg) centered with glow
+   - Title: "F1PONZI ($ZOOOM)" in large neon letters, pulsing animation
+   - CTA Buttons: "Twitter", "Pump.fun" with glowing borders
+
+2. **Intro Story**
+   - Text Block:
+     - "It started on the track... with nothing but fuel, hopium, and a dream. One clown hit the throttle, and $ZOOOM was born."
+     - Displayed with fade-in typing animation
+   - Background: Racing chart candles and crypto line graphs in motion
+
+3. **The Garage**
+   - Show off the characters: frogs in racing suits, pit crew of clowns
+   - Cards for each "driver" with hover animations
+   - Small NFT-style memes flip on hover
+
+4. **Tokenomics**
+   - Horizontal scroll zone with animated bar charts
+   - Visual stats with animated dollar signs flying around
+
+5. **Roadmap**
+   - Neon-style timeline from “Pit Stop” to “Lambo Launch”
+   - Each checkpoint glows on scroll
+
+6. **Community & Links**
+   - Twitter + Pump.fun buttons glowing
+   - Background: futuristic grid or "digital racetrack"
+
+FILES TO USE:
+- logo.jpg
+- banner.png
+- 1.png — driver in cockpit
+- 2.png — pit crew clownfrogs
+- 3.png — tunnel animation style
+- 4.png — ZOOOM racing scene
+
+GOAL:
+Website should feel like a speed trip into a crypto racing multiverse. Everything should *move*. The vibe must instantly say “this is meme culture, but on nitro.”
+
+KEY ELEMENTS:
+- Title "$ZOOOM" glows bright pink
+- Multiple sections must use animated reveals
+- Buttons must have hover effects (neon light flash)
+- Backgrounds should have subtle motion
+- Make all memes/visuals slightly interactive
